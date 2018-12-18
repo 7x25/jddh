@@ -1,15 +1,15 @@
 repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository_url: https://bbs.lq8.net/
 
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title: 北邮人导航 · BYR-Navi
+title: 六七导航 · 代码如诗
 alias_en: BYR-Navi
-alias_cn: 北邮人导航
+alias_cn: 六七导航
 description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
+keywords: 六七八导航, 简单的导航
+url: https://dh.lq8.net
 established_at: "2016-10-01T00:00+08:00"
 
 author: iROCKBUNNY

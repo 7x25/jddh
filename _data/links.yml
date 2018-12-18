@@ -318,9 +318,9 @@
       style: blue
       url: https://bbs.lq8.net/
 
-    - name: 北邮IPTV
+    - name: 博客
       style: basic
-      url: http://tv.byr.cn/
+      url: http://lq8.net/
 
     - name: 信息门户
       style: basic

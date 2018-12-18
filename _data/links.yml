@@ -314,9 +314,9 @@
       style: basic
       url: https://bbs.byr.cn/
 
-    - name: 北邮人BT
+    - name: 六七吧
       style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: https://bbs.lq8.net/
 
     - name: 北邮IPTV
       style: basic
@@ -432,26 +432,26 @@
 
     - name: 查看论坛数据
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+      url: http://bbs.lq8.net/
 
-    - name: 论坛APP
+    - name: 杂谈论坛
       icon: app store
       style: black
-      url: http://itunes.apple.com/cn/app/bei-you-ren-lun-tan-bei-you/id1115232927
+      url: http://bbs.lq8.net/
 
-    - name: 论坛APP
+    - name: 小论坛
       icon: google play
       style: black
-      url: https://github.com/dss886/BYR-BBS-APP-Release
+      url: https://bbs.lq8.net/
 
     - name: 论坛官方微博
       style: basic
-      url: http://weibo.com/byrbbs
+      url: http://weibo.com/
 
-    - name: 论坛投票区
+    - name: 玩论坛
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: http://bbs.lq8.net/
 
-    - name: 玩转论坛指南
+    - name: 玩转论坛
       style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+      url: http://bbs.lq8.net/

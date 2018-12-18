@@ -310,9 +310,9 @@
       style: basic
       url: http://jwc.bupt.edu.cn/
 
-    - name: 北邮人论坛
+    - name: 678论坛
       style: basic
-      url: https://bbs.byr.cn/
+      url: https://bbs.lq8.net/
 
     - name: 六七吧
       style: blue
@@ -414,9 +414,9 @@
 
   - name: 论坛相关
     links:
-    - name: 北邮人论坛
+    - name: 678论坛
       style: teal
-      url: http://bbs.byr.cn/
+      url: http://bbs.lq8.net/
 
     - name: 游客版论坛
       style: basic
